@@ -1,0 +1,22 @@
+body{
+    background: pink;
+}
+
+h1{
+    text-align: center;
+    color: rgb(97, 73, 41);
+}
+
+.foto img{
+    width: 50%;
+}
+
+.foto {
+    text-align: center;
+}
+
+#mensaje {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(97, 73, 41);
+}
